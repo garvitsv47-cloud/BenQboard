@@ -1,0 +1,6 @@
+{
+  "name": "BenQ BoardIQ — Smart Classroom Intelligence Station",
+  "description": "Smart classroom copilot that transforms lectures into structured, shareable learning material using webcam board capture, live voice transcription, pace analytics, and instant student study packs.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
